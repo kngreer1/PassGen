@@ -1,15 +1,2 @@
-PassGen/resources/*
-PassGen/hooks/*
 PassGen/node_modules/*
-PassGen/www/*
-PassGen/src/declarations.d.ts
-PassGen/config.xml
-PassGen/package.json
-PassGen/.editorconfig
-PassGen/README.md
-PassGen/src/assets/icon/favicon.ico
-PassGen/src/manifest.json
-PassGen/src/service-worker.js
-PassGen/tsconfig.json
-PassGen/tslint.json
-PassGen/ionic.config.json
+
